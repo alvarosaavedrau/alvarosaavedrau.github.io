@@ -4,3 +4,14 @@ header {
   background: #31E0FF;
   font-size: 15px;
 }
+
+footer {
+  padding: 8px;
+  text-align: left;
+  background: gray;
+  font-size: 15px;
+}
+
+body {
+  background: #FAAC58;
+}
